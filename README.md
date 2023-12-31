@@ -1,4 +1,5 @@
 Hello and welcome to my GitHub profile! My name is Femi Adeniran. and I am a Data Scientist and Machine learning enthusiast of the tribe pythonista.
+![ominous films - Copy](https://github.com/phenomenon0/phenomenon0/assets/66181395/5f01b0dc-0f17-46aa-8e5f-c39b14e1e376)
 
 I have always been drawn to the power and potential of  the inernet and open source technology, and I am passionate about contributing to and learning from the amazing community of developers on GitHub.
 
