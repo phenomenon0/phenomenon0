@@ -9,4 +9,5 @@ From utility tools to cloud scale architecture, I am constantly pushing myself t
 If you have any questions or just want to chat about AI/ML, Sports Data Analytics, don't hesitate to reach out! I'm always happy to connect with like-minded people and collaborate on new ideas. 🤝📧
 
 You can reach me at jethro.adeniran@gmail.com. 📩
+You can also find me on huggingface https://huggingface.co/jethrovic 🚀
 
